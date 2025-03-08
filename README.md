@@ -1,6 +1,6 @@
 # Deploy Simple Html Pages
 
-## Using Git Action
+## Using Git Actions
 
 Github page: https://phu-phurithat.github.io/gh-deployment-workflow/
 
